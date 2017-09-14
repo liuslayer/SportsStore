@@ -1,0 +1,1 @@
+C:\Users\Administrator\Desktop\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
