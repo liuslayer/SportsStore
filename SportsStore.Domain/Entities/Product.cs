@@ -1,6 +1,9 @@
-﻿namespace SportsStore.Domain.Entities {
+﻿using System.ComponentModel.DataAnnotations;
+using System.Web.Mvc;
+namespace SportsStore.Domain.Entities {
 
-    public class Product {
+    public class Product
+    {
         public int ProductID { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
